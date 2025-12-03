@@ -24,7 +24,7 @@
 
 ---
 
-![Programmer](https://github.com/Loser-20/Loser-20/blob/main/Network_Engineer.png)
+![Network_Engineer](https://github.com/Loser-20/Loser-20/blob/main/Network_Engineer.png)
 
 ---
 
@@ -67,6 +67,8 @@
 ---
 
 ## 🖧 Enterprise Network Topology
+![Topology](https://github.com/Loser-20/Loser-20/blob/main/Assets/Images/Enterprise_Infrastructure_network_diagram.png)
+
 ## ☁️ Cloud Networking
 ![Azure VNET](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/azure-vnet.png)
 ![AWS VPC](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/aws-vpc.png)
