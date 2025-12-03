@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 About Me
-- 👋 Hi, I’m @Loser-20  
+- 👋 Hi, I’m Pratik Thorawade.  
 - 👀 I’m a **Network Engineer** specializing in **Enterprise Networks** with hands-on experience in **Cisco Meraki MX, MS, MR, MV** solutions.  
 - 🔐 Skilled in **IPSec tunnel configuration** and secure connectivity.  
 - ☁️ Cloud enthusiast with practical knowledge of **Azure VNETs** and **AWS VPCs**, with a stronger focus on **Azure networking**.  
