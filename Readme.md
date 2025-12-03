@@ -66,4 +66,20 @@
 
 ---
 
-![3D Contributions](https://github.com/idimetrix/idimetrix/blob/main/profile-3d-contrib/profile-green-animate.svg)
+## 🖧 Enterprise Network Topology
+## ☁️ Cloud Networking
+![Azure VNET](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/azure-vnet.png)
+![AWS VPC](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/aws-vpc.png)
+## 🔐 IPSec Tunnel Flow
+![IPSec Tunnel](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/ipsec-flow.png)
+
+
+![Cisco](https://img.shields.io/badge/Cisco-Meraki-blue?logo=cisco&style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-Networking-0078D4?logo=azure-devops&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-VPC-orange?logo=amazonaws&style=for-the-badge)
+![IPSec](https://img.shields.io/badge/IPSec-Tunnels-green?style=for-the-badge)
+## 📊 Contribution Graphs
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
