@@ -24,7 +24,7 @@
 
 ---
 
-![Programmer](https://user-images.githubusercontent.com/86850437/215259979-e2c80c69-c066-46ac-8827-5301cbf8e8d3.gif)
+![Programmer](https://github.com/Loser-20/Loser-20/blob/main/Network_Engineer.png)
 
 ---
 
