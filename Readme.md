@@ -70,10 +70,13 @@
 ![Topology](https://github.com/Loser-20/Loser-20/blob/main/Assets/Images/Enterprise_Infrastructure_network_diagram.png)
 
 ## ☁️ Cloud Networking
-![Azure VNET](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/azure-vnet.png)
-![AWS VPC](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/aws-vpc.png)
-## 🔐 IPSec Tunnel Flow
-![IPSec Tunnel](https://raw.githubusercontent.com/Loser-20/Loser-20/main/assets/ipsec-flow.png)
+### Azure VNet
+![Azure VNET](https://github.com/Loser-20/Loser-20/blob/main/Assets/Images/Azure.png)
+### AWS VPC
+![AWS VPC](https://github.com/Loser-20/Loser-20/blob/main/Assets/Images/AWS_AVP_Arch.png)
+
+## 🔐 IPSec Tunnel
+![IPSec Tunnel](https://github.com/Loser-20/Loser-20/blob/main/Assets/Images/MX%20as%20VPN%20Concentrator%20Green.png)
 
 
 ![Cisco](https://img.shields.io/badge/Cisco-Meraki-blue?logo=cisco&style=for-the-badge)
